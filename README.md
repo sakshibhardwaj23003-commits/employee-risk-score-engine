@@ -118,6 +118,8 @@ This project is for educational purposes.
 ├── dashboard/           # Visualization files
 ├── outputs/             # Results and reports
 └── README.md            # Project documentation
+![WhatsApp Image 2026-04-02 at 10 00 18 AM (1)](https://github.com/user-attachments/assets/5f37580c-da33-4ada-a842-9871679a56d4)
+
 ```
 
 ---
