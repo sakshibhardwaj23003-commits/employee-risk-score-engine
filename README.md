@@ -15,6 +15,8 @@ The goal is to help organizations take **proactive decisions** to improve employ
   - Medium Risk
   - High Risk
   - # 📊 Employee Attrition Risk Dashboard
+  - ![WhatsApp Image 2026-04-02 at 10 00 18 AM (1)](https://github.com/user-attachments/assets/7fcc4fce-4219-4db7-ac65-52c5a5bde383)
+
 
 ## 📌 Project Overview
 This project focuses on analyzing employee data to identify individuals who are at risk of leaving the organization. It uses survey-based inputs and key HR metrics to calculate an **attrition risk score**, categorize employees, and provide actionable insights through a dashboard.
